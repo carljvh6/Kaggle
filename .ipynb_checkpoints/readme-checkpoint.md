@@ -1,0 +1,1 @@
+In this repository I will deomstrate some of the work I did for Kaggle competitions. The notebooks will be short, the idea is to stick to one main new concept I worked on while doing the competitions.
