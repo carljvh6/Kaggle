@@ -13,6 +13,7 @@ config/local_config.json
 Steel_plate_defects/.ipynb_checkpoints/
 Steel_plate_defects/playground-series-s4e3.zip
 Steel_plate_defects/playground-series-s4e3
+.ipynb_checkpoints
 
 # Ignore directories
 dist/
