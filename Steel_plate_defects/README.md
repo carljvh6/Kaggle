@@ -5,3 +5,10 @@ In this competition I approached it as a multilabel problem, meaning that the mo
 Maintakeaways for me are the following
 * XGBoost performed really well. It was very accurate and fast to train, even on a CPU
 * Neural nets still performed reasonably well and were very fast to train and easy to implement. They did not perform as well as the XGBoost models, but may still be a useful tool to keep in the kit for a tabular data type problem
+
+In this repository we have
+* [Data exploration and preprocessing](https://github.com/carljvh6/Kaggle/blob/main/Steel_plate_defects/1_Data_exploration_preprocessing.ipynb)
+* [XGBoost with Optune for optimisation of hyperparameters](https://github.com/carljvh6/Kaggle/blob/main/Steel_plate_defects/2_XGBoost_Optuna.ipynb)
+* [Random Forests](https://github.com/carljvh6/Kaggle/blob/main/Steel_plate_defects/3_Random_forests.ipynb)
+* [Neural nets usint FasAI API on Pytorch](https://github.com/carljvh6/Kaggle/blob/main/Steel_plate_defects/4_Neural_nets.ipynb)
+* [Model evaluation](https://github.com/carljvh6/Kaggle/blob/main/Steel_plate_defects/1_Data_exploration_preprocessing.ipynb)
